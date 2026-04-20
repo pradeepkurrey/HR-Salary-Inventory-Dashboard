@@ -63,7 +63,7 @@ The goal is to transform raw data into actionable insights for better decision-m
 
 ## 📊 Dashboard Preview
 
-![Overwiev](./Overview7.png)
+![Overwiev](./Overwiev7.png)
 
 ![Salary Analysis](Salary7.png)
 
