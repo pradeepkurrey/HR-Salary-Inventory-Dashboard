@@ -39,30 +39,31 @@ The goal is to transform raw data into actionable insights for better decision-m
 
 ## 🔄 Data Processing Steps
 
-## 1. Cleaned raw data (removed nulls, duplicates, formatted columns)
-
- ![Raw Data](Row Data7.png)
+ ## 1. Cleaned raw data (removed nulls, duplicates, formatted columns)
+   
+  ![Raw Data](./Row%20Data7.png)
+  
+ ## 2. Transformed data using Power Query
  
-## 2. Transformed data using Power Query
+![Clean Data](./Clean%20Data7.png)
+ 
+ ## 3. Created relationships between tables (data modeling)
+ 
+ ![Data Modeling](./Data%20Modeling7.png)
 
-![Clean Data](Clean Data7.png)
-
-## 3. Created relationships between tables (data modeling)
-
- ![Data Modeling](Data Modeling7.png)
-
+ 
 ## 📐 DAX Measures
 
 [View DAX Formulas](./DAX.md)
 
-## 4. Designed an interactive dashboard
+
      
 
 
 
 ## 📊 Dashboard Preview
 
-![Overview](Overview7.png)
+![Overview](./Overview7.png)
 
 ![Salary Analysis](Salary7.png)
 
