@@ -36,36 +36,50 @@ The goal is to transform raw data into actionable insights for better decision-m
 - Power Query (Data Cleaning & Transformation)
 - Data Modeling
 
----
 
 ## 🔄 Data Processing Steps
 
 ## 1. Cleaned raw data (removed nulls, duplicates, formatted columns)
- (Row Data7.png)
+
+ ![Raw Data](Row Data7.png)
+ 
 ## 2. Transformed data using Power Query
-(Clean Data7.png)
+
+![Clean Data](Clean Data7.png)
+
 ## 3. Created relationships between tables (data modeling)
- (Data Modling7.png)
-## 4. Built calculated measures using DAX
-(DAX.md)
+
+ ![Data Modeling](Data Modeling7.png)
+
+## 📐 DAX Measures
+
+[View DAX Formulas](./DAX.md)
+
 ## 4. Designed an interactive dashboard
-     (Overwiev7.png)
----
+     
 
-## 📈 Dashboard Preview
-Overwiev7.png
-Salary7.png
-Item7.png
-Insights7.png
 
----
+
+## 📊 Dashboard Preview
+
+![Overview](Overview7.png)
+
+![Salary Analysis](Salary7.png)
+
+![Item Analysis](Item7.png)
+
+![Insights](Insights7.png)
+
+
+
 
 ## 📁 Project Files
 [Download Power BI File](./BILEVEL7(HR).pbix)
 
-- 
-## Dataset
- (./hr_inventory_messy_10000.xlsx).
+
+## 📂 Dataset
+
+[Download Dataset](./hr_inventory_messy_10000.xlsx)
 
 ## 💡 Business Value
 
