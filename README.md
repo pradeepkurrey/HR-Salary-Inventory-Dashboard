@@ -49,7 +49,7 @@ The goal is to transform raw data into actionable insights for better decision-m
  
  ## 3. Created relationships between tables (data modeling)
  
- ![Data Modeling](./Data%20Modeling7.png)
+ ![Data Modeling](./Data%20Modling7.png)
 
  
 ## 📐 DAX Measures
@@ -63,7 +63,7 @@ The goal is to transform raw data into actionable insights for better decision-m
 
 ## 📊 Dashboard Preview
 
-![Overview](./Overview7.png)
+![Overwiev](./Overview7.png)
 
 ![Salary Analysis](Salary7.png)
 
